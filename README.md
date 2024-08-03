@@ -1,6 +1,6 @@
 # food-idea
 
-[LIVE DEMO](https://food-idea-maksymilian-org.netlify.app/)
+[LIVE DEMO](https://food-idea.vercel.app/#/)
 
 ![screenshot](./src/assets/screenshot.jpg)
 
